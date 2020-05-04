@@ -1,0 +1,32 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/student/projects/weekly/Bookmark-manager/app.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/student/projects/weekly/Bookmark-manager/spec/features/testing_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1588602295
+  }
+}
