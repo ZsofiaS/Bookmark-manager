@@ -11,10 +11,12 @@
           1,
           null,
           null,
+          1,
+          null,
           null
         ]
       },
-      "/Users/student/projects/weekly/Bookmark-manager/spec/features/testing_spec.rb": {
+      "/Users/student/projects/weekly/Bookmark-manager/spec/features/bookmark_view_spec.rb": {
         "lines": [
           1,
           null,
@@ -27,6 +29,6 @@
         ]
       }
     },
-    "timestamp": 1588602295
+    "timestamp": 1588603301
   }
 }
