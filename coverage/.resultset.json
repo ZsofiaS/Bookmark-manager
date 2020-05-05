@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/student/projects/weekly/Bookmark-manager/app.rb": {
+      "/Users/garethwoodman/Desktop/Makers Academy/Projects/my_portfolio/week_4/with_zsofia/Bookmark-manager/app.rb": {
         "lines": [
           1,
           1,
@@ -26,20 +26,23 @@
           null
         ]
       },
-      "/Users/student/projects/weekly/Bookmark-manager/lib/bookmark.rb": {
+      "/Users/garethwoodman/Desktop/Makers Academy/Projects/my_portfolio/week_4/with_zsofia/Bookmark-manager/lib/bookmark.rb": {
         "lines": [
+          1,
+          null,
           1,
           1,
           2,
-          null,
-          null,
+          2,
+          8,
           null,
           null
         ]
       },
-      "/Users/student/projects/weekly/Bookmark-manager/spec/bookmark_spec.rb": {
+      "/Users/garethwoodman/Desktop/Makers Academy/Projects/my_portfolio/week_4/with_zsofia/Bookmark-manager/spec/bookmark_spec.rb": {
         "lines": [
           1,
+          1,
           null,
           1,
           1,
@@ -53,7 +56,7 @@
           null
         ]
       },
-      "/Users/student/projects/weekly/Bookmark-manager/spec/features/bookmark_view_spec.rb": {
+      "/Users/garethwoodman/Desktop/Makers Academy/Projects/my_portfolio/week_4/with_zsofia/Bookmark-manager/spec/features/bookmark_view_spec.rb": {
         "lines": [
           1,
           null,
@@ -75,6 +78,6 @@
         ]
       }
     },
-    "timestamp": 1588607639
+    "timestamp": 1588685839
   }
 }

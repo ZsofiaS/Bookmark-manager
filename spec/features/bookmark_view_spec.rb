@@ -11,7 +11,7 @@ feature "viewing bookmarks" do
   scenario "when visiting /bookmarks it displays list of bookmarks" do
     visit "/"
     click_on "Bookmarks"
-    expect(page).to have_content "https://www.google.com"
-    expect(page).to have_content "https://www.bing.com"
+    expect(page).to have_content "http://www.google.com"
+    expect(page).to have_content "http://www.askjeeves.com"
   end
 end
