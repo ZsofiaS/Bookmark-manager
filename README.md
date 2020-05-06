@@ -17,3 +17,4 @@ Setting up test database:
 * create the database using the `psql` command `CREATE TABLE bookmark_manager_test;`
 * connect to the database using the `psql` command `\c bookmark_manager_test;`
 * run the query we have saved in the file `01_create_bookmarks_table.sql`
+`02_add_title_to_bookmarks.sql`
