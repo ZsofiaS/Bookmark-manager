@@ -5,12 +5,3 @@ feature 'Bookmark View' do
   end
 
 end
-
-# feature "viewing bookmarks" do
-#   scenario "when visiting /bookmarks it displays list of bookmarks" do
-#     visit '/'
-#     click_on "Bookmarks"
-#     expect(page).to have_content "http://google.com"
-#     expect(page).to have_content "http://github.com"
-#   end
-# end
