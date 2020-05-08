@@ -48,19 +48,21 @@ input[type="submit"] {
   font-size: 1.2rem;
   border: none;
 }
+ul {
+  text-align: center;
+  padding: 0;
+}
 li {
   list-style-type: none;
 }
 a {
   text-decoration: none;
   color: inherit;
+  text-align: center;
 }
 a:hover {
   font-weight: bold;
 }
 .result {
   margin-top: 4rem;
-}
-ul {
-  text-align: left;
 }
